@@ -1,0 +1,12 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="420" rx="36" fill="#0f172a"/>
+  <circle cx="170" cy="80" r="170" fill="#8b5cf6" opacity="0.35"/>
+  <circle cx="1020" cy="70" r="190" fill="#0ea5e9" opacity="0.28"/>
+  <circle cx="680" cy="360" r="220" fill="#22c55e" opacity="0.12"/>
+  <text x="80" y="145" fill="white" font-family="Arial, sans-serif" font-size="62" font-weight="900">🎮 EduQuest RPG</text>
+  <text x="84" y="210" fill="#dbeafe" font-family="Arial, sans-serif" font-size="30" font-weight="700">Belajar Sambil Bertualang</text>
+  <text x="84" y="265" fill="#c4b5fd" font-family="Arial, sans-serif" font-size="24">Next.js 14 • Tailwind CSS • Gemini AI • LocalStorage MVP</text>
+  <rect x="760" y="120" width="300" height="180" rx="28" fill="white" opacity="0.12" stroke="white" stroke-opacity="0.35"/>
+  <text x="810" y="185" fill="white" font-family="Arial, sans-serif" font-size="46">🗡️ 🔮 🏹 🛡️</text>
+  <text x="825" y="245" fill="#fde68a" font-family="Arial, sans-serif" font-size="30" font-weight="800">Sage AI Tutor</text>
+</svg>
